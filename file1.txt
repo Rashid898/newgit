@@ -5,7 +5,8 @@
 <body>
 	<center>
 	    <h1> Arth </h1>
-	    <h2> Linux </h2>
+	    <h2> Moon </h2>
+	    <h3> Sun </h3>
 	    <button> click here </button>
 	</center>
 </body>

@@ -1,4 +1,6 @@
 
 mcsa
 ccna
+ccnp
+vmware
 firewall
